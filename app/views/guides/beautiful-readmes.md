@@ -1,6 +1,6 @@
 # How to Make Beautiful Readmes
 
-Hello! This is Anicetus, and I'm writing this guide because I've been seeing a lot of ugly readmes out there. This guide assumes you know most of the features of Markdown, but that you haven't learned how to make it look _good_. For example, an ugly readme might look like this:
+Hello! This is Anicetus, and I'm writing this guide because I've been seeing a lot of ugly readmes out there. This guide assumes you know most of the features of Markdown, but that you haven't learned how to make it look _good_. If you're a noob to Markdown, check out [Taran's guide](https://highway.hackclub.com/guides/markdown)! For example, an ugly readme might look like this:
 
 <sub>hehe picking on taran today</sub>
 
